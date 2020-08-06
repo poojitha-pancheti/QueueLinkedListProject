@@ -45,6 +45,7 @@ namespace QueueLinkedListProject
                     default:
                         Console.WriteLine("Wrong choice");
                         break;
+
                 }
                 Console.WriteLine();
             }
